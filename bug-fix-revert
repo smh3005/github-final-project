@@ -1,0 +1,28 @@
+$ curl -L https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/11397
+
+{
+  "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/11397",
+  "number": 11397,
+  "state": "closed",
+  "title": "Bug fix revert",
+
+  "head": {
+    "label": "smh3005:bug-fix-revert",
+    "ref": "bug-fix-revert",
+    "repo": {
+      "full_name": "smh3005/mcino-Introduction-to-Git-and-GitHub",
+      "fork": true,
+      "visibility": "public"
+    }
+  },
+
+  "base": {
+    "label": "ibm-developer-skills-network:main",
+    "ref": "main",
+    "repo": {
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+    }
+  },
+
+  "merged": false
+}
