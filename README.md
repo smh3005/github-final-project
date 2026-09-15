@@ -29,4 +29,4 @@ The calculator displays the calculated simple interest.
 
 Run the `simple-interest.sh` script in a Bash terminal and enter the requested values.
 
-_© 2023 XYZ, Inc._
+_© 2022 XYZ, Inc._
