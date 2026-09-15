@@ -1,0 +1,12 @@
+$ git branch -vv
+  bug-fix-revert c24fde1 [origin/bug-fix-revert] Revert "Update README.md"
+  bug-fix-typo   787fd71 Update README.md
+* main           787fd71 [origin/main: ahead 1] Update README.md
+
+smhan@lenovo MINGW64 ~/mcino-Introduction-to-Git-and-GitHub (main)
+$ git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
